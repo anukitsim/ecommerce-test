@@ -2,6 +2,7 @@ import React from 'react';
 import './directory.styles.scss';
 import CategoryItem from '../category-item/catrgory-item.component';
 
+
 const Directory = ({categories}) => {
   return (
     
